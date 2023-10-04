@@ -16,11 +16,11 @@ To create a procedure using PL/SQL.
 create or replace procedure insert_emp_data AS
 begin
 insert into employeetbl1 (Empid,Empname,Dept,Salary)
-values (1,'ABINAYA','Finance',60000);
+values (1,'VASUNDRA','Finance',60000);
 insert into employeetbl1 (Empid,Empname,Dept,Salary)
-values (2,'RADHA','MD',65000);
+values (2,'SARAH','MD',65000);
 insert into employeetbl1 (Empid,Empname,Dept,Salary)
-values (3,'KRISHNA','HR',75000);
+values (3,'RAJU','HR',75000);
 commit;
 end;
 /
@@ -34,9 +34,9 @@ end;
 PL/SQL procedure successfully completed.
 ```
 ### Output:
-![insert](https://github.com/vasundrasriravi/Ex-No-4-Creating-Procedures-using-PL-SQL/assets/119393983/383c6a26-6089-4015-bf61-3e31f70cd858)
+![3](https://github.com/vasundrasriravi/Ex-No-4-Creating-Procedures-using-PL-SQL/assets/119393983/4f84b45b-31ff-40d1-b553-c94d3345f547)
 
-![md](https://github.com/vasundrasriravi/Ex-No-4-Creating-Procedures-using-PL-SQL/assets/119393983/85056d93-4d6d-41af-946d-ae4384a86c37)
+![3 1](https://github.com/vasundrasriravi/Ex-No-4-Creating-Procedures-using-PL-SQL/assets/119393983/8fd9339e-6de5-4c5c-a91d-461917a851f1)
 
 ### Result:
 To create a procedure using PL/SQL is executed successfully.
